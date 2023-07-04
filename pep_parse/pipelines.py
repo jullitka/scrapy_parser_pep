@@ -27,5 +27,5 @@ class PepParsePipeline:
             writer.writerows((
                 ('Status', 'Quantity'),
                 *self.count_statuses.items(),
-                ('Всего', sum(self.count_statuses.values()))
+                ('Total', sum(self.count_statuses.values()))
             ))
