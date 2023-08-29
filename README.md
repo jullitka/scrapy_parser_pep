@@ -8,6 +8,9 @@
 #### Количество PEP по статусам
 Парсер подсчитывает количество PEP каждого статуса и сумму всех статусов.
 Записывает полученные данные в файл .csv
+## Стек технологий:
+[![Python](https://img.shields.io/badge/-Python-464646?style=flat-square&logo=Python)](https://www.python.org/)
+[![Scrapy](https://img.shields.io/badge/-Scrapy-464646?logo=Scrapy)](https://docs.scrapy.org/en/latest/)
 
 ## Запуск проекта
 Клонировать репозиторий:
